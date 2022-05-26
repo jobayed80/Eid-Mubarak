@@ -25,15 +25,12 @@ void I(void);
 void D(void);
 void M(void);
 void U(void);
+void B(void);
 void A(void);
 void R(void);
 void A_1(void);
 void K(void);
-void H(void);
-void B(void);
-void O(void);
-void T(void);
-void A1(void);
+
 
 
 
